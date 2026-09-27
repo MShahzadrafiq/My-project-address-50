@@ -1,0 +1,6 @@
+{
+  "name": "Binance Futures Scanner",
+  "description": "Binance Futures All-Coins 12-Matrix Institutional High-Accuracy Scanner featuring Order Flow Net Delta, MFI, Volume Surge, L2 Depth, 200m HVN & POC, VWAP, ADX+DMI, Triple EMA, Bollinger %B, MACD, RSI, and StochRSI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
